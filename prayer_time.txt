@@ -1,0 +1,5 @@
+Fajr:        05:14 AM - 06:16  AM
+Dhuhr:    12:09 PM - 03:31  PM
+Asr:         03:31 PM - 06:03 PM
+Maghrib: 06:03 PM - 07:05 PM
+Isha:        07:05 PM - 05:14 AM
